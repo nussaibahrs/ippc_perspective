@@ -1,0 +1,96 @@
+sys,system,series,stage,tens,short,gts2004,gts2008,gts2012,gts2016,gts2020
+E,Ediacaran,Upper Ediacaran,Avalon Assemblage,,Ava,630,635,635,635,
+E,Ediacaran,Upper Ediacaran,White Sea Assemblage,,Whs,,,,,
+E,Ediacaran,Upper Ediacaran,Nama Assemblage,,Nam,,,,,
+Cm,Cambrian,Terreneuvian,Fortunian,Cambrian 1,For,542,542,541,541,538.8
+Cm,Cambrian,Terreneuvian,Stage 2,Cambrian 2,St2,531,528,529,530,529
+Cm,Cambrian,Series 2,Stage 3,Cambrian 2,St3,522.5,521,521,520,521
+Cm,Cambrian,Series 2,Stage 4,Cambrian 3,St4,513,515,514,514,514.5
+Cm,Cambrian,Maolingian,Wulian,Cambrian 3,Wul,510,510,509,509,509
+Cm,Cambrian,Maolingian,Drumian,Cambrian 3,Dru,507,506.5,504.5,504.5,504.5
+Cm,Cambrian,Maolingian,Guzhangian,Cambrian 3,Guz,503,503,500.5,500.5,500.5
+Cm,Cambrian,Furongian,Paibian,Cambrian 4,Pai,501,499,497,497,497
+Cm,Cambrian,Furongian,Jiangshanian,Cambrian 4,Jia,498,496,494,494,494.2
+Cm,Cambrian,Furongian,Stage 10,Cambrian 4,Law,491.8,492,489.5,489.5,491
+O,Ordovician,Lower Ordovician,Tremadocian,Ordovician 1,Tre,488.3,488.3,485.37,485.4,486.85
+O,Ordovician,Lower Ordovician,Floian,Ordovician 2,Flo,478.6,478.6,477.72,477.72,477.08
+O,Ordovician,Middle Ordovician,Dapingian,Ordovician 2,Dap,471.8,471.8,469.96,469.96,471.26
+O,Ordovician,Middle Ordovician,Darriwilian,Ordovician 3,Dar,468.1,468.1,467.3,467.3,469.42
+O,Ordovician,Upper Ordovician,Sandbian,Ordovician 4,Sbd,460.9,460.9,458.36,458.36,458.18
+O,Ordovician,Upper Ordovician,Katian,Ordovician 4,Kat,455.8,455.8,452.97,452.97,452.75
+O,Ordovician,Upper Ordovician,Hirnantian,Ordovician 5,Hir,445.6,445.6,445.16,445.16,445.21
+S,Silurian,Llandovery,Rhuddanian,Silurian 1,Rhu,443.7,443.7,443.83,443.83,443.07
+S,Silurian,Llandovery,Aeronian,Silurian 1,Aer,439,439,440.77,440.77,440.49
+S,Silurian,Llandovery,Telychian,Silurian 1,Tel,436,436,438.49,438.49,438.59
+S,Silurian,Wenlock,Sheinwoodian,Silurian 2,She,428.2,428.2,433.35,433.35,432.93
+S,Silurian,Wenlock,Homerian,Silurian 2,Hom,426.2,426.2,430.45,430.45,430.62
+S,Silurian,Ludlow,Gorstian,Silurian 2,Gor,422.9,422.9,427.36,427.36,426.74
+S,Silurian,Ludlow,Ludfordian,Silurian 2,Lud,421.3,421.3,425.57,425.57,425.01
+S,Silurian,Pridoli,Pridoli,Silurian 2,Pri,418.7,418.7,422.96,422.96,422.73
+D,Devonian,Lower Devonian,Lochkovian,Devonian 1,Loc,416,416,419.2,419.2,419
+D,Devonian,Lower Devonian,Pragian,Devonian 1,Pra,411.2,411.2,410.78,410.78,412.4
+D,Devonian,Lower Devonian,Emsian,Devonian 2,Ems,407,407,407.57,407.57,410.5
+D,Devonian,Middle Devonian,Eifelian,Devonian 3,Eif,397.5,397.5,393.25,393.25,394.3
+D,Devonian,Middle Devonian,Givetian,Devonian 3,Giv,391.8,391.8,387.72,387.72,385.3
+D,Devonian,Upper Devonian,Frasnian,Devonian 4,Fra,385.3,385.3,382.69,382.69,378.9
+D,Devonian,Upper Devonian,Famennian,Devonian 5,Fam,374.5,374.5,372.24,372.24,371.1
+C,Carboniferous,Mississippian,Tournaisian,Carboniferous 1,Tou,359.2,359.2,358.94,358.94,359.3
+C,Carboniferous,Mississippian,Visean,Carboniferous 2,Vis,345.3,345.3,346.73,346.73,346.73
+C,Carboniferous,Mississippian,Serpukhovian,Carboniferous 3,Ser,326.4,328.3,330.92,330.92,330.34
+C,Carboniferous,Pennsylvanian,Bashkirian,Carboniferous 4,Bas,318.1,318.1,323.23,323.23,323.4
+C,Carboniferous,Pennsylvanian,Moscovian,Carboniferous 4,Mos,311.7,311.7,315.16,314.6,315.15
+C,Carboniferous,Pennsylvanian,Kasimovian,Carboniferous 5,Kas,306.5,307.2,306.99,306.65,307.02
+C,Carboniferous,Pennsylvanian,Gzhelian,Carboniferous 5,Gzh,303.9,303.4,303.67,303.4,303.68
+P,Permian,Cisuralian,Asselian,Permian 1,Ass,299,299,298.9,298.9,298.89
+P,Permian,Cisuralian,Sakmarian,Permian 1,Sak,294.6,294.6,295.53,295.5,293.52
+P,Permian,Cisuralian,Artinskian,Permian 2,Art,284.4,284.4,290.06,290.06,290.51
+P,Permian,Cisuralian,Kungurian,Permian 2,Kun,275.6,275.6,279.3,282,283.3
+P,Permian,Guadalupian,Roadian,Permian 3,Roa,270.6,270.6,272.3,272.3,274.37
+P,Permian,Guadalupian,Wordian,Permian 3,Wor,268,268,268.8,268.8,269.21
+P,Permian,Guadalupian,Capitanian,Permian 3,Cap,265.8,265.8,265.1,265.1,264.34
+P,Permian,Lopingian,Wuchiapingian,Permian 4,Wuc,260.4,260.4,259.81,259.8,259.55
+P,Permian,Lopingian,Changhsingian,Permian 4,Chg,253.8,253.8,254.2,254.2,254.24
+Tr,Triassic,Lower Triassic,Induan,Triassic 1,Ind,251,251,252.16,251.9,251.9
+Tr,Triassic,Lower Triassic,Olenekian,Triassic 1,Ole,249.7,249.5,250.01,249.81,249.88
+Tr,Triassic,Middle Triassic,Anisian,Triassic 2,Ani,245,245.9,247.06,246.8,246.7
+Tr,Triassic,Middle Triassic,Ladinian,Triassic 2,Lad,237,237,241.5,241.5,241.46
+Tr,Triassic,Upper Triassic,Carnian,Triassic 3,Car,228,228.7,237,237,237
+Tr,Triassic,Upper Triassic,Norian,Triassic 4,Nor,216.5,216.5,228.35,228.45,227.3
+Tr,Triassic,Upper Triassic,Rhaetian,Triassic 4,Rha,203.6,203.6,209.46,205.81,205.74
+J,Jurassic,Lower Jurassic,Hettangian,Jurassic 1,Het,199.6,199.6,201.3,201.36,201.36
+J,Jurassic,Lower Jurassic,Sinemurian,Jurassic 1,Sin,196.5,196.5,199.3,199.4,199.46
+J,Jurassic,Lower Jurassic,Pliensbachian,Jurassic 2,Plb,189.6,189.6,190.82,191.36,192.9
+J,Jurassic,Lower Jurassic,Toarcian,Jurassic 3,Toa,183,183,182.7,183.7,184.2
+J,Jurassic,Middle Jurassic,Aalenian,Jurassic 3,Aal,175.6,175.6,174.15,174.15,174.7
+J,Jurassic,Middle Jurassic,Bajocian,Jurassic 4,Baj,171.6,171.6,170.3,170.3,170.9
+J,Jurassic,Middle Jurassic,Bathonian,Jurassic 4,Bat,167.7,167.7,168.28,168.28,168.17
+J,Jurassic,Middle Jurassic,Callovian,Jurassic 5,Cal,164.7,164.7,166.07,166.07,165.29
+J,Jurassic,Upper Jurassic,Oxfordian,Jurassic 5,Oxf,161.2,161.2,163.47,163.47,161.53
+J,Jurassic,Upper Jurassic,Kimmeridgian,Jurassic 5,Kim,154.6,154.6,157.3,157.3,154.78
+J,Jurassic,Upper Jurassic,Tithonian,Jurassic 6,Tit,150.8,150.8,152.06,152.06,149.24
+K,Cretaceous,Lower Cretaceous,Berriasian,Cretaceous 1,Ber,145.5,145.5,145.01,145.73,143.1
+K,Cretaceous,Lower Cretaceous,Valanginian,Cretaceous 2,Val,136.4,136.4,140.18,139.39,137.7
+K,Cretaceous,Lower Cretaceous,Hauterivian,Cretaceous 2,Hau,130,133.9,133.88,134.69,132.6
+K,Cretaceous,Lower Cretaceous,Barremian,Cretaceous 3,Bar,125,125,130.77,130.77,126.5
+K,Cretaceous,Lower Cretaceous,Aptian,Cretaceous 3,Apt,121,121,126.3,126.3,121.4
+K,Cretaceous,Lower Cretaceous,Albian,Cretaceous 4,Alb,112,112,112.95,113.14,113.2
+K,Cretaceous,Upper Cretaceous,Cenomanian,Cretaceous 5,Cen,99.6,99.6,100.5,100.5,100.5
+K,Cretaceous,Upper Cretaceous,Turonian,Cretaceous 6,Tur,93.5,93.5,93.9,93.9,93.9
+K,Cretaceous,Upper Cretaceous,Coniacian,Cretaceous 6,Con,89.3,88.6,89.77,89.75,89.39
+K,Cretaceous,Upper Cretaceous,Santonian,Cretaceous 6,San,85.8,85.8,86.26,86.26,85.7
+K,Cretaceous,Upper Cretaceous,Campanian,Cretaceous 7,Cam,83.5,83.5,83.64,84.19,83.65
+K,Cretaceous,Upper Cretaceous,Maastrichtian,Cretaceous 8,Maa,70.6,70.6,72.05,72.05,72.17
+Pg,Paleogene,Paleocene,Danian,Cenozoic 1,Dan,65.5,65.5,66.04,66.04,66.04
+Pg,Paleogene,Paleocene,Selandian-Thanetian,Cenozoic 1,Se-Th,61.7,61.7,61.6,61.6,59.24
+Pg,Paleogene,Eocene,Ypresian,Cenozoic 2,Ypr,55.8,55.8,55.96,55.96,56
+Pg,Paleogene,Eocene,Lutetian,Cenozoic 2,Lut,48.6,48.6,47.82,47.84,48.07
+Pg,Paleogene,Eocene,Bartonian,Cenozoic 3,Brt,40.4,40.4,41.2,41.03,41.03
+Pg,Paleogene,Eocene,Priabonian,Cenozoic 3,Prb,37.2,37.2,37.8,37.99,37.71
+Pg,Paleogene,Oligocene,Rupelian,Cenozoic 4,Rup,33.9,33.9,33.89,33.9,33.9
+Pg,Paleogene,Oligocene,Chattian,Cenozoic 4,Cht,28.45,28.45,28.01,28.01,27.29
+Ng,Neogene,Miocene,Lower Miocene,Cenozoic 5,Lmi,23.03,23.03,23.03,23.03,23.04
+Ng,Neogene,Miocene,Middle Miocene,Cenozoic 5,Mmi,15.97,15.97,15.97,15.97,15.99
+Ng,Neogene,Miocene,Upper Miocene,Cenozoic 6,Umi,11.6,11.6,11.63,11.625,11.625
+Ng,Neogene,Pliocene,Pliocene,Cenozoic 6,Pli,5.33,5.33,5.333,5.333,5.335
+,Quarternary,Pleistocene,Pleistocene,Cenozoic 6,Ple,2.59,2.59,2.59,2.58,2.58
+,Quarternary,Holocene,Holocene,Cenozoic 6,Hol,0.115,0.115,0.0118,0.0118,0.0117
