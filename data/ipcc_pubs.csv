@@ -1,0 +1,125 @@
+"first_author","publication_year","doi","source","scope","category","time_period","temporal_resolution","spatial_scale","taxonomic_group","paper_type","framing_title","framing_abstract","scope_multi_species","scope_multi_higher_class_and_up","reporting_significance","reporting_effect_size","reporting_uncertainty_w_effect_size","attribution_component","attribution_quant_test","relevance_for_prediction_potentially_1","relevance_for_prediction_directly_1","scored_sum"
+"Allen","2010","https://doi.org/10.1016/j.quascirev.2010.05.031","AR5 Ch4","ecological","near-time","10 - 42 ka BP","1000 years","Continent","Vegetation","Modelling",0,1,1,1,0,1,0,1,0,1,0,6
+"Alley","2003","https://doi.org/10.1126/science.1081056","AR5 Ch4","climate and environment","near-time","various","various","Global","","Review (nothing new)",0,1,1,1,0,0,0,1,0,1,0,5
+"Arneth","2010","https://doi.org/10.1038/ngeo905","AR5 Ch4","ecological","near-time","0 - 80,000 ka BP","100 years","Global","Terrestrial biosphere","Review (new analysis)",1,1,1,1,1,1,1,1,1,1,1,11
+"Barnosky","2011","https://doi.org/10.1038/nature11018","AR5 Ch4","ecological","deep-time","various (up to Phanerozoic)","various","Global","Earth's biosphere","Review (nothing new)",0,0,1,1,0,1,1,1,0,1,0,6
+"Battarbee","2009","https://doi.org/10.1080/14634980902905742","AR5 Ch4","ecological","near-time","various","various (high res though)","Continent","Mountain lake ecosystems; sed cores","Review (nothing new)",0,1,1,1,0,0,0,1,0,1,0,5
+"Beilman","2009","https://doi.org/10.1029/2007GB003112","AR5 Ch4","ecological","near-time","0 - 2,000 BP","10 years","Regional","Peatlands","Original data",0,1,1,1,1,1,0,1,0,1,0,7
+"Bond","2012","https://doi.org/10.1098/rstb.2011.0182","AR5 Ch4","ecological","historical","1950 - 2006","1 year","Continent","Trees and savannah grasses","Review (new analysis)",0,0,1,1,1,1,0,1,1,1,1,8
+"Booth","2005","https://doi.org/10.1191%2F0959683605hl825ft","AR5 Ch4","ecological","near-time","41 - 43 ka","100 years","Regional","Pollen","Review (new analysis)",0,1,1,1,0,0,0,1,0,1,0,5
+"Cheaib","2012","https://doi.org/10.1111/j.1461-0248.2012.01764.x","AR5 Ch4","ecological","modern","current and future","1 year","","","Modelling",1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,2
+"Clark","1998","https://doi.org/10.1086/286162","AR5 Ch4","ecological","near-time","(Pleistocene)","","","Trees","Modelling",0,1,1,1,0,0,0,0,0,1,1,5
+"Claussen","2009","https://doi.org/10.5194/cp-5-203-2009","AR5 Ch4","ecological","near-time","0 - 120,000 BP","1000 years","Regional","Vegetation","Review (new analysis)",1,1,1,1,0,1,1,1,0,1,0,8
+"Claussen","2013","https://doi.org/10.5194/bg-10-3593-2013","AR5 Ch4","ecological","near-time","21ka (LGM)","100 years","Global","Vegetation","Modelling",1,1,1,1,0,1,0,1,1,1,1,9
+"Daniau","2012","https://doi.org/10.1029/2011GB004249","AR5 Ch4","ecological","near-time","0 - 21,000 BP","1000 years","Global","Biomass; charcoal record","Meta-analysis/Compilation",1,1,1,1,1,1,1,1,1,1,1,11
+"Daniau","2010","https://doi.org/10.1016/j.quascirev.2009.11.008","AR5 Ch4","ecological","near-time","73.5 - 14.7 ka (last glacial)","100 years","Global","Charcoal records","Meta-analysis/Compilation",0,1,1,1,1,0,0,1,1,1,1,8
+"Dawson","2011","https://doi.org/10.1126/science.1200303","AR5 Ch4","ecological","na","na","na","na","many","Review (nothing new)",1,1,1,1,0,0,0,1,0,1,0,6
+"Garreta","2010","https://doi.org/10.1007/s00382-009-0629-1","AR5 Ch4","climate-only","near-time","0 - 11,000 BP","10 years","Continent","Pollen","Modelling",1,1,1,1,1,1,1,1,1,1,1,11
+"Gill","2009","https://doi.org/10.1126/science.1179504","AR5 Ch4","ecological","near-time","8 - 17 ka","100 years","Continent","Megafauna, plants","Original data",0,1,1,1,0,0,0,1,0,1,0,5
+"Gonzalez","2010","https://doi.org/10.1111/j.1466-8238.2010.00558.x","AR5 Ch4","ecological","historical","1900 - 2000","1 year","Global","Vegetation biomes","Modelling",1,1,1,1,1,1,1,1,1,1,1,11
+"Green","2008","https://doi.org/10.1098/rsbl.2008.0052","AR5 Ch4","ecological","modern","1970 - 2004","1 year","Regional","Birds","Modelling",1,1,1,0,1,1,0,1,1,1,1,9
+"Harrison","2010","https://doi.org/10.1016/j.quascirev.2010.07.016","AR5 Ch4","ecological","near-time","73.5 - 20ka","100 years","Global","Pollen","Meta-analysis/Compilation",1,1,1,1,0,1,0,1,0,1,0,7
+"Haywood","2006","https://doi.org/10.1016/j.palaeo.2005.12.012","AR5 Ch4","ecological","deep-time","3.29 - 2.97 ma","10000 years","Global","Vegetation, hominids","Modelling",1,1,1,1,1,1,1,1,1,1,0,10
+"Hegarty","2012","https://doi.org/10.1111/j.1365-294X.2012.05720.x","AR5 Ch4","ecological","modern","","1 year","Local","many","Review (nothing new)",0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+"Hickler","2012","https://doi.org/10.1111/j.1466-8238.2010.00613.x","AR5 Ch4","ecological","modern","1961 - 2500","1 year","Continent","Vegetation","Modelling",0,1,1,1,0,1,1,1,1,1,1,9
+"Hof","2011a","https://doi.org/10.1038/nature10650","AR5 Ch4","ecological","modern","1980 - 2080","1 year","Global","Amphibians","Modelling",1,1,1,0,1,1,1,1,1,1,1,10
+"Hurtt","2011","https://doi.org/10.1007/s10584-011-0153-2","AR5 Ch4","ecological","historical","1500 - 2100","1 year","Global","land use - so many","Modelling",0,1,1,1,1,1,1,1,1,1,1,10
+"Jackson","2000","https://doi.org/10.1017/S0094837300026932","AR5 Ch4","ecological","near-time","2100 AD to 450 ka BP","1000 years","Global","Plants","Modelling",1,1,1,1,0,1,1,1,0,1,1,9
+"Jackson","2009","https://doi.org/10.1126/science.1172977","AR5 Ch4","ecological","near-time","na","na","na","na","Review (nothing new)",0,1,0,0,0,0,0,0,0,1,0,2
+"Jaramillo","2010","https://doi.org/10.1126/science.1193833","AR5 Ch4","ecological","deep-time","56.3 ma (PETM)","10000 years","Regional","Pollen","Original data",1,1,1,1,1,1,0,1,0,1,0,8
+"Kinlan","2003","https://doi.org/10.1890/01-0622","AR5 Ch4","ecological","modern","","1 year","Global","many","Modelling",0,0,1,1,0,0,0,0,0,0,0,2
+"Kropelin","2008","https://doi.org/10.1126/science.1154913","AR5 Ch4","ecological","near-time","0 - 6,000 BP","100 years","Regional","terrestrial ecosystem","Original data",1,1,1,1,0,0,0,1,0,1,0,6
+"Leadley","2010","Book/Report","AR5 Ch4","ecological","modern","","1 year","Global","many","Report",0,1,1,1,1,1,1,1,1,1,1,10
+"Lorensen","2011","https://doi.org/10.1038/nature10574","AR5 Ch4","ecological","near-time","0 - 50,000 BP","1000 years","Continent","Megafauna (mammals)","Original data",1,1,1,0,1,1,1,1,1,1,0,9
+"MacDonald","2010","https://doi.org/10.1242/jeb.039511","AR5 Ch4","ecological","modern","","1 year","Basin","Plants","Review (nothing new)",1,1,1,1,1,1,1,1,1,1,1,11
+"MacDonald","2008","https://doi.org/10.1177%2F0309133308094081","AR5 Ch4","ecological","deep-time","0 - 65 ma","various","various","many","Review (nothing new)",1,1,1,1,0,0,0,1,1,1,0,7
+"Marlon","2009","https://doi.org/10.1073/pnas.0808212106","AR5 Ch4","ecological","near-time","10 - 15 ka","100 years","Continent","Pollen, charcoal","Meta-analysis/Compilation",1,1,1,1,1,0,0,1,1,1,0,8
+"Marlon","2013","https://doi.org/10.1016/j.quascirev.2012.11.029","AR5 Ch4","ecological","near-time","200 - 12,000 BP","100 years","Global","Charcoal","Review (new analysis)",0,1,1,1,1,0,0,1,1,1,0,7
+"Mayle","2008","https://doi.org/10.1098/rstb.2007.0019","AR5 Ch4","ecological","near-time","4,000 - 8,000 BP","10 years","Regional","Pollen, charcoal","Meta-analysis/Compilation",1,1,1,1,0,0,0,1,0,1,0,6
+"Moritz","2013","https://doi.org/10.1126/science.1237190","AR5 Ch4","ecological","historical","1900 - 2080","1 year","Regional","Birds, Mammals","Review (nothing new)",1,1,1,1,0,1,1,1,0,1,1,9
+"Mueller (Quat Res)","2009","http://dx.doi.org/10.1016/j.yqres.2008.10.002","AR5 Ch4","ecological","near-time","1,300 - 8,000 BP","100 years","Local","Pollen","Original data",1,1,1,1,0,0,0,1,0,1,0,6
+"Mueller (Lim. Oc.)","2009","https://doi.org/10.4319/lo.2009.54.6_part_2.2371","AR5 Ch4","ecological","modern","1969 - 2007","1 year","Local","several","Original data",1,1,1,1,0,0,0,1,0,0,0,5
+"Nogues-Bravo","2010","https://doi.org/10.1111/j.1558-5646.2010.01009.x","AR5 Ch4","ecological","near-time","0 - 50 ka BP","na","Global","Mammals","Modelling",1,1,1,0,1,1,0,1,1,1,1,9
+"Pearman","2008","https://doi.org/10.1111/j.1461-0248.2007.01150.x","AR5 Ch4","ecological","near-time","0 - 6,000 BP","100 years","Continent","Plants (modern), Pollen (past)","Modelling",0,1,1,1,1,1,1,1,1,1,1,10
+"Pereira","2010","https://doi.org/10.1126/science.1196624","AR5 Ch4","ecological","modern","2005 - 2050","1 year","Global","many","Review (nothing new)",0,0,1,1,0,1,1,1,1,1,1,8
+"Prentice","2011","https://doi.org/10.1111/j.1469-8137.2010.03620.x","AR5 Ch4","climate and environment","","","","","C3/C4 plants","Review (new analysis)",1,1,1,1,NA,1,1,1,NA,1,1,9
+"Prentice","1996","https://doi.org/10.1007/BF00211617","AR5 Ch4","ecological","near-time","0 - 6,000 BP","na","Continent","Pollen","Meta-analysis/Compilation",0,0,1,1,0,0,0,1,0,1,0,4
+"Prentice","2009","https://doi.org/10.5194/cp-5-297-2009","AR5 Ch4","ecological","near-time","21ka (LGM)","na","Global","Vegetation","Review (nothing new)",1,1,1,1,0,0,0,1,0,0,0,5
+"Salzmann","2008","https://doi.org/10.1111/j.1466-8238.2008.00381.x","AR5 Ch4","ecological","deep-time","3.6–2.6 Ma (Middle Pliocene)","na","Global","Vegetation","Modelling",0,1,1,1,1,1,1,1,1,1,1,10
+"Schulte","2010","https://doi.org/10.1126/science.1177265","AR5 Ch4","ecological","deep-time","end-Cretaceous","na","Global","multiple","Review (nothing new)",0,1,1,1,0,0,0,0,0,0,0,3
+"Smol","2007a","https://doi.org/10.1890/060162","AR5 Ch4","ecological","historical","post-1850","na","Regional","diatom","Review (nothing new)",1,1,1,0,0,0,0,1,0,0,0,4
+"Watrin","2009","https://doi.org/10.1016/j.crte.2009.06.007","AR5 Ch4","ecological","near-time","8500 BP","100 years","Regional","Vegetation","Original data",0,1,1,1,0,1,1,1,1,1,0,8
+"Williams","2007","https://doi.org/10.1890/070037","AR5 Ch4","ecological","near-time","21,000-6,000 BP","1000 years","Continent","multiple","Review (new analysis)",1,1,1,1,0,1,0,1,0,1,1,8
+"Williams","2009","http://dx.doi.org/10.1016/j.gloplacha.2008.10.012","AR5 Ch4","ecological","near-time","10000-0 ka","1000 years","Regional","Vegetation","Original data",1,1,1,1,1,1,0,1,1,1,1,10
+"Williams","2011","https://doi.org/10.1111/j.1365-2745.2011.01810.x","AR5 Ch4","ecological","near-time","late Quaternary","1000 years","Global","Vegetation","Review (nothing new)",1,1,1,1,0,1,1,1,0,1,1,9
+"Willis","2011","https://doi.org/10.1146/annurev-ecolsys-102209-144704","AR5 Ch4","ecological","deep-time","Cenozoic (PETM; Eocene Climatic Optimum; Mid Pliocene Warm Interval, Eemian; Holocene)","unsure","Global","Vegetation","Review (nothing new)",1,1,1,1,0,1,0,1,0,1,0,7
+"Willis","2010","https://doi.org/10.1080/14772000903495833","AR5 Ch4","ecological","deep-time","Cenozoic (multiple events)","unsure","Global","Vegetation","Review (nothing new)",1,1,1,1,0,1,0,1,1,1,1,9
+"Wing","2013","https://doi.org/10.3732/ajb.1200554","AR5 Ch4","ecological","deep-time","PETM (but also has Eocene stuff)","100000 years","Regional","Vegetation","Original data",1,1,1,1,1,1,0,1,1,1,0,9
+"Wing","2005","https://doi.org/10.1126/science.1116913","AR5 Ch4","ecological","deep-time","PETM","10000 years","Regional","Vegetation","Original data",1,1,1,1,1,1,0,1,1,1,0,9
+"Woodburne","2009","https://doi.org/10.1073/pnas.0906802106","AR5 Ch4","ecological","deep-time","Eocene","unsure","Regional","mammals","Original data",1,1,1,0,1,1,0,1,0,1,0,7
+"Woillez","2011","https://doi.org/10.5194/cp-7-557-2011","AR5 Ch4","ecological","near-time","Last Glacial Maximum","unsure","Global","Vegetation","Modelling",1,1,1,1,0,1,1,1,1,1,1,10
+"Balazs","2004","https://doi.org/10.1016/j.biocon.2003.08.008","AR5 Ch6","ecological","modern","1973-2002","1 year","Local","Green sea turtle","Original data",0,0,0,0,1,1,1,0,1,0,0,4
+"Barker","2002","https://doi.org/10.1126/science.1072815","AR5 Ch6","ecological","near-time","Pleistocene-Holocene","600 years","Basin","Foraminifera","Original data",1,1,1,1,1,1,1,1,NA,1,0,9
+"Beaugrand","2002","https://doi.org/10.1126/science.1071329","AR5 Ch6","ecological","modern","1960-1999","4 years","Basin","Copepods","Original data",1,1,1,0,1,1,0,NA,1,1,0,7
+"Beaugrand","2008","https://doi.org/10.1111/j.1461-0248.2008.01218.x","AR5 Ch6","ecological","modern","1958-2005","5-10 years","Basin","115 species or taxonomic groups (50 diatom species, 23 dinoflagellates species, 22 copepod species and 20 other zooplankton taxa including fish eggs and larvae","Original data",1,1,1,1,1,1,0,1,1,1,1,10
+"Beaugrand","2009","https://doi.org/10.1016/j.dsr2.2008.12.022","AR5 Ch6","ecological","modern","1958-2005","10 years","Basin","Copepods","Original data",1,1,1,0,1,1,0,1,1,1,0,8
+"Beaugrand","2009","https://doi.org/10.1111/j.1365-2486.2009.01848.x","AR5 Ch6","ecological","modern","1960-1999","3 years","Basin","Copepods","Original data",1,1,1,0,1,1,0,1,1,1,1,9
+"Beaugrand","2010","https://doi.org/10.1073/pnas.0913855107","AR5 Ch6","ecological","modern","1960-2005","1 year","Basin","Copepods, cod","Original data",1,1,1,1,1,1,1,1,1,1,1,11
+"Beaugrand","2013","https://doi.org/10.1038/nclimate1753","AR5 Ch6","ecological","modern","1960-2009","","Basin","plankton","Original data",1,1,1,1,1,1,0,1,1,1,0,9
+"Bown","2004","https://doi.org/10.1007/978-3-662-06278-4_18","AR5 Ch6","ecological","deep-time","Mesozoic-Recent","Geological stages","Global","Calcareous nannoplankton","Review (new analysis)",0,1,1,0,0,0,0,1,0,0,0,3
+"Bralower","2002","https://doi.org/10.1029/2001PA000662","AR5 Ch6","ecological","deep-time","PETM","100000 years","Local","nannoplankton","Original data",0,1,1,0,0,0,0,1,0,1,0,4
+"Brinton","2003","https://doi.org/10.1016/S0967-0645(03)00126-7","AR5 Ch6","ecological","modern","1950-2002","10 years","Regional","euphasiid species","Original data",0,1,1,0,1,1,1,1,1,1,0,8
+"Chavez","2003","https://doi.org/10.1126/science.1075880","AR5 Ch6","ecological","modern","1950-2000","10 years","Basin","sardines and anchovy","Review (nothing new)",0,1,1,0,0,0,0,1,0,1,0,4
+"De'ath","2009","https://doi.org/10.1126/science.1165283","AR5 Ch6","ecological","historical","1600-2000","multiple (from 1 year to longer)","Regional","Corals","Original data",0,1,1,0,1,1,1,1,1,1,1,9
+"deYoung","2004","10.1016/j.pocean.2004.02.017","AR5 Ch6","ecological","historical","multiple (earliest 1650)","multiple","multiple","multiple","Review (nothing new)",0,0,1,1,0,0,0,1,0,1,0,4
+"deYoung","2008","https://doi.org/10.1016/j.tree.2008.03.008","AR5 Ch6","ecological","historical","multiple (earliest 1880)","multiple","multiple","multiple","Review (nothing new)",0,0,1,1,0,0,0,1,0,1,0,4
+"Edwards","2001","https://doi.org/10.1006/jmsc.2000.0987","AR5 Ch6","ecological","modern","1960-1995","1 year","Basin","phytoplankton","Original data",0,1,1,1,0,0,0,1,0,1,0,5
+"Edwards","2004","https://doi.org/10.1038/nature02808","AR5 Ch6","ecological","modern","1958-2002","1 year","Basin","plankton","Original data",1,1,1,1,1,1,1,1,1,1,1,11
+"Edwards","2013","https://doi.org/10.1371/journal.pone.0057212","AR5 Ch6","ecological","modern","1924/1948-2004","1 year","Basin","plankton, fish","Original data",1,1,1,1,1,1,1,1,1,1,0,10
+"Eero","2011","https://doi.org/10.1890/09-1879.1","AR5 Ch6","ecological","modern","1946-2005","1 year","Basin","cod (Gadus morhua)","Original data",1,1,0,0,1,1,0,1,1,1,0,7
+"Field","2006","https://doi.org/10.1126/science.1116220","AR5 Ch6","ecological","historical","600-2000","5 years","Regional","Planktonic foraminifera","Original data",1,1,1,0,1,1,0,1,1,1,1,9
+"Foster","2013","https://doi.org/10.1073/pnas.1300579110","AR5 Ch6","ecological","deep-time","Eocene Thermal Maximum & PETM","100000 years","Local","Benthic foraminfera","Original data",1,1,1,0,1,1,0,1,1,1,1,9
+"Frank","2005","https://doi.org/10.1126/science.1113075","AR5 Ch6","ecological","modern","1960-2005","1 year","Regional","cod, plankton, etc","Original data",0,0,1,1,0,1,0,0,0,1,0,4
+"Friedland","2012","https://doi.org/10.1007/s00300-011-1105-z","AR5 Ch6","ecological","modern","1965-1991","1 year","Basin","Salmon","Original data",0,1,1,1,1,1,1,1,1,1,1,10
+"Genner","2004","https://doi.org/10.1098/rspb.2003.2651","AR5 Ch6","ecological","modern","1913-2002","1 year","Regional","fish","Original data",1,1,1,0,1,1,0,1,1,1,0,8
+"Genner","2010","https://doi.org/10.1111/j.1365-2486.2009.02027.x","AR5 Ch6","ecological","modern","1911-2007","1 year","Regional","fish","Original data",1,1,1,0,1,1,1,1,1,1,1,10
+"Gibbs","2006","https://doi.org/10.1126/science.1133902","AR5 Ch6","ecological","deep-time","PETM","10000 years","Global","nannoplankton","Original data",1,1,1,0,0,1,0,1,0,1,1,7
+"Halfar","2011","https://doi.org/10.1016/j.palaeo.2010.04.009","AR5 Ch6","ecological","historical","1893-2007","1 year","Regional","coralline algae","Original data",1,1,0,0,1,1,1,1,1,1,1,9
+"Harley","2011","https://doi.org/10.1126/science.1210199","AR5 Ch6","ecological","modern","1957-2010","1 year","Regional","barnacles and mussels","Original data",1,1,1,1,1,1,1,1,1,1,1,11
+"Henson","2010","https://doi.org/10.5194/bg-7-621-2010","AR5 Ch6","climate and environment","modern","1958-2006","1 year","Global","phytoplankton","Modelling",1,1,1,1,1,1,1,1,1,1,1,11
+"Hinder","2012","https://doi.org/10.1038/nclimate1388","AR5 Ch6","ecological","modern","1960-2009","1 year","Basin","dinoflagellates and diatom","Original data",1,1,1,1,1,0,0,1,1,1,0,8
+"Jackson","2000","https://doi.org/10.1017/S0094837300026944","AR5 Ch6","ecological","deep-time/near-time","last 800 myr","1 million","Basin","mollusks and corals","Review (new analysis)",0,0,1,1,1,1,0,1,0,0,0,5
+"Karl","2001","https://doi.org/10.1016/S0967-0645(00)00149-1","AR5 Ch6","ecological","modern","1968-2001","1 year","Basin","phytoplankton","Original data",1,1,1,1,0,1,1,1,0,1,0,8
+"Kennett","1991","https://doi.org/10.1038/353225a0","AR5 Ch6","ecological","deep-time","PETM","1000 years","Local","benthic foraminifera","Original data",1,1,1,0,0,1,0,1,0,1,0,6
+"Kiessling","2011","https://doi.org/10.1111/j.1365-2486.2010.02204.x","AR5 Ch6","ecological","deep-time","Phanerozoic","Geological stages","Global","Marine invertebrates","Meta-analysis/Compilation",0,1,1,1,1,1,0,1,0,1,0,7
+"Kiessling","2012","https://doi.org/10.1073/pnas.1214037110","AR5 Ch6","ecological","deep-time","Pleistocene","10000 years","Global","Reef corals","Meta-analysis/Compilation",1,1,1,0,1,1,0,1,0,1,1,8
+"Knoll","2007","https://doi.org/10.1016/j.epsl.2007.02.018","AR5 Ch6","ecological","deep-time","end-Permian/early Triassic","unsure","Global","multiple","Review (new analysis)",0,1,1,1,0,1,0,1,0,1,0,6
+"Lavaniegos","2003","https://doi.org/10.1016/S0967-0645(03)00132-2","AR5 Ch6","ecological","modern","1951-2002","1 year","Basin","turnicates","Original data",0,0,1,1,1,1,1,0,0,0,0,5
+"Leckie","2002","https://doi.org/10.1029/2001PA000623","AR5 Ch6","ecological","deep-time","mid-Cretaceous","millions of years","Global","planktonic foram & nannofossil","Original data",0,0,1,1,0,1,0,1,0,0,0,4
+"Lindley","2010","https://doi.org/10.1098/rsbl.2010.0394","AR5 Ch6","ecological","modern","1947-2008","1 year","Basin","decapod & bivalves","Original data",1,1,1,1,1,1,0,1,0,1,0,8
+"Mackas","1998","https://doi.org/10.1139/f98-080","AR5 Ch6","ecological","modern","1956-1998","1 year","Local","copepod","Original data",0,1,0,0,1,1,1,1,1,1,1,8
+"MacLeod","2005","https://doi.org/10.1016/j.biocon.2005.02.004","AR5 Ch6","ecological","modern","1948-2003","1 year","Regional","cetaceans","Original data",1,1,1,0,1,1,0,1,0,1,0,7
+"McQuatters-Gollop","2011","https://doi.org/10.1038/nature09950","AR5 Ch6","ecological","modern","1950-2010","1 year","Basin","Phytoplankton","Review (new analysis)",0,0,1,1,0,0,0,0,0,0,0,2
+"Neuheimer","2011","https://doi.org/10.1038/nclimate1084","AR5 Ch6","ecological","modern","1900-2010","1 year","Regional","Fish","Original data",1,1,0,0,1,1,1,1,1,1,1,9
+"Ohman","2009","https://doi.org/10.1029/2009GL039901","AR5 Ch6","ecological","modern","1951-2008","1 year","Basin","calcareous holozooplankton","Original data",1,0,1,1,1,1,1,0,0,0,0,6
+"Ottersen","2006","https://doi.org/10.1111/j.1365-2419.2006.00404.x","AR5 Ch6","ecological","modern","1946-2002","1 year","Regional","cod","Original data",1,1,0,0,1,1,0,1,1,1,1,8
+"Pershing","2005","https://doi.org/10.1016/j.icesjms.2005.04.025","AR5 Ch6","ecological","modern","1961-2005","1 year","Regional","zooplankton","Original data",0,0,1,0,1,1,0,0,0,0,0,3
+"Pershing","2010","https://doi.org/10.1093/plankt/fbq058","AR5 Ch6","ecological","modern","1958-2006","1 year","Basin","copepods","Original data",0,0,1,0,1,0,0,0,0,0,0,2
+"Pinsky","2012","https://doi.org/10.1007/s10584-012-0599-x","AR5 Ch6","ecological","modern","1970-2010","1 year","Regional","lobster, flounder, hake","Original data",1,1,1,1,1,1,1,1,1,1,1,11
+"Pinsky","2013","https://doi.org/10.1126/science.1239352","AR5 Ch6","ecological","modern","1968-2011","1 year","Continent","marine taxa","Meta-analysis/Compilation",1,1,1,1,1,1,1,1,1,1,1,11
+"Richardson","2004","https://doi.org/10.1126/science.1100958","AR5 Ch6","ecological","modern","1958-2002","1 year","Basin","plankton","Meta-analysis/Compilation",1,1,1,1,1,1,1,1,1,1,1,11
+"Richardson","2008","https://doi.org/10.4319/lo.2008.53.5.2040","AR5 Ch6","ecological","modern","1946-2003","1 year","Basin","jellyfish","Original data",1,1,1,0,1,1,1,0,0,0,0,6
+"Ridgewell","2010","https://doi.org/10.1038/ngeo755","AR5 Ch6","ecological","deep-time","PETM","1 year","Global","marine calcifiers","Modelling",1,1,1,1,0,0,0,1,0,1,0,6
+"Saba","2011","https://doi.org/10.1038/nclimate1582","AR5 Ch6","ecological","modern/future","1900-2100","1 year","Local","marine turtles","Modelling",1,1,0,0,0,1,1,1,0,1,1,7
+"Sabatés","2006","https://doi.org/10.1111/j.1365-2486.2006.01246.x","AR5 Ch6","ecological","modern","1950-2004","1 year","Regional","fish","Original data",1,1,0,0,1,1,1,1,1,1,1,9
+"Salvadeo","2010","https://doi.org/10.3354/esr00252","AR5 Ch6","ecological","modern","1978-2010","1 year","Regional","dolphin","Original data",1,1,0,0,0,0,0,0,0,0,0,2
+"Scheibner","2008","https://doi.org/10.1016/j.earscirev.2008.07.002","AR5 Ch6","ecological","deep-time","early Paleogene","millions of years","Basin","corals and foraminifera","Original data",1,1,1,1,0,0,0,1,0,1,0,6
+"Schlüter","2008","https://doi.org/10.1007/s10236-008-0146-5","AR5 Ch6","ecological","modern","1975-2004","1 year","Regional","plankton and fish","Original data",1,1,1,1,1,1,0,1,1,1,0,9
+"Schlüter","2010","https://doi.org/10.1111/j.1365-2486.2010.02246.x","AR5 Ch6","ecological","modern","1975-2005","1 year","Local","zooplankton","Original data",1,1,1,1,0,1,1,1,1,1,1,10
+"Stige","2010","https://doi.org/10.1098/rspb.2010.0602","AR5 Ch6","ecological","modern","1959-1990","1 year","Basin","cod, capelin, herring and haddock, their predators, competitors and zooplanktonic prey","Original data",1,1,1,1,1,1,1,1,1,1,1,11
+"Takasuka","2008","https://doi.org/10.3354/meps07407","AR5 Ch6","ecological","modern","1978-2004","1 year","Regional","fish","Modelling",1,1,1,0,1,1,0,1,1,1,1,9
+"Thomas","2003","http://dx.doi.org/10.1130/0-8137-2369-8.319","AR5 Ch6","ecological","deep-time","PETM","10000 years","Local","benthic foraminifera","Original data",1,1,1,0,0,1,0,1,0,1,0,6
+"Thomas","2007","https://doi.org/10.1130/2007.2424(01)","AR5 Ch6","ecological","deep-time","Cenozoic","10000 years","Global","benthic foraminifera","Review (new analysis)",0,1,1,0,0,0,0,1,0,0,0,3
+"Van Houtan","2011","https://doi.org/10.1371/journal.pone.0019043","AR5 Ch6","ecological","modern/future","1950-20140","1 year","Regional","loggerhead sea turtle","Modelling",1,1,0,0,1,1,1,1,1,1,1,9
+"Watanabe","2008","https://doi.org/10.1029/2007GL032188","AR5 Ch6","ecological","modern","1968-2008","1 year","Regional","phytoplankton","Original data",1,1,1,0,1,1,0,0,0,1,0,6
+"Webb","2009","https://doi.org/10.1130/G30074A.1","AR5 Ch6","ecological","deep-time","PETM","10000 years","Local","benthic microplankton","Original data",1,1,1,1,1,1,0,1,0,1,0,8
