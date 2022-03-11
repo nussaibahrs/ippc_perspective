@@ -1,0 +1,12 @@
+short,long,category
+framing_title,Title,Framing
+framing_abstract,Abstract,Framing
+scope_multi_species,Multi-species,Taxonomic Scope
+scope_multi_higher_class_and_up,Multi-classes,Taxonomic Scope
+reporting_significance,Significance,Reporting
+reporting_effect_size,Effect Size,Reporting
+reporting_uncertainty_w_effect_size,Uncertainty (w. Effect Size),Reporting
+attribution_component,Attribution,Climate Change
+attribution_quant_test,Quantitative Test,Climate Change
+relevance_for_prediction_potentially_1,Potentially,Relevance for Prediction
+relevance_for_prediction_directly_1,Directly,Relevance for Prediction
