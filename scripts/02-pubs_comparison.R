@@ -31,6 +31,17 @@ dat <- rbind(ipcc[,cols], random[,cols])
 # Compare modern vs paleo -------------------------------------------------
 count <- table(dat$paleo)
 
+dat %>% group_by(paleo) %>% 
+  summarise(median(scored_sum))
+
+
+wilcox.test(dat$scored_sum[dat$paleo==0],
+            dat$scored_sum[dat$paleo==1])
+
+wilcox.test(dat$scored_sum[dat$paleo==1],
+            dat$scored_sum[dat$paleo==2])
+
+
 p1 <- ggplot(dat, aes(x=paleo, y=scored_sum, col=factor(paleo))) +
   geom_boxplot() +
   geom_jitter(alpha=0.5) +
