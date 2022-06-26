@@ -180,10 +180,11 @@ dev.off()
 
 
 # Comparison --------------------------------------------------------------
+ipcc_pubs <- read.csv("data/ipcc_pubs.csv")
 
-ch4 <- read_excel("data/Supplementary Data 2.xlsx", na="NA", sheet="AR5 Chapter 4") # Chapter 4
-ch6 <- read_excel("data/Supplementary Data 2.xlsx", na="NA", sheet="AR5 Chapter 6") # Chapter 6
-wbs <- read_excel("data/Supplementary Data 2.xlsx", na="NA", sheet="Web of Science") # web of science
+ch4 <- ipcc_pubs[ipcc_pubs$source=="AR5 Ch4",] # Chapter 4
+ch6 <- ipcc_pubs[ipcc_pubs$source=="AR5 Ch6",] # Chapter 6
+wbs <- read.csv("data/random_pubs.csv") # web of science
 
 table(ch4$category)
 table(ch6$category)
@@ -206,3 +207,4 @@ dp.n <- which(wbs$category=="deep-time")
 ne.n <- which(wbs$category=="near-time")
 boxplot(scores[dp.n], scores[ne.n])
 wilcox.test(scores[dp.n], scores[ne.n])
+
