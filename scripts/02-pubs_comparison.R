@@ -3,6 +3,7 @@ library(ggplot2)
 library(ggthemes)
 library(cowplot)
 library(patchwork)
+library (readxl)
 
 # Set theme ---------------------------------------------------------------
 theme_set(theme_hc())
@@ -44,7 +45,7 @@ wilcox.test(dat$scored_sum[dat$paleo==1],
 
 p1 <- ggplot(dat, aes(x=paleo, y=scored_sum, col=factor(paleo))) +
   geom_boxplot() +
-  geom_jitter(alpha=0.5) +
+  # geom_jitter(alpha=0.5) +
   scale_x_continuous(breaks=c(0,1,2),
                      labels = c("modern", "paleo", "random")) +
   scale_y_continuous(breaks=seq(0,11, 2), limits=c(0,11)) +
@@ -58,8 +59,6 @@ p1 <- ggplot(dat, aes(x=paleo, y=scored_sum, col=factor(paleo))) +
            size=3)+
   annotate("text", x=2-0.25, y=0.5, label=paste0("n=", count[3]), fontface=3,
            size=3)
-
-ggsave("figs/fig02.svg", p1, w=6, h=5)
 
 # By categories -----------------------------------------------------------
 labs <- read.csv("data/cats.csv")
@@ -102,8 +101,8 @@ cols <- c("first_author", "spatial_scale", "source", "scope", "category",
           "temporal_resolution")
 
 dat2 <- rbind(ipcc[,cols],
-      random[,cols]) %>%
-filter(!category %in% c("modern", "modern/future"))
+              random[,cols]) %>%
+  filter(!category %in% c("modern", "modern/future"))
 
 dat2$paleo <- 2
 dat2$paleo[dat2$source=="Web of Science"] <- 1
@@ -129,13 +128,13 @@ spatial <- dat2 %>%
 spatial <- spatial %>% 
   left_join(
     dat2 %>% group_by(paleo) %>% 
-  tally(name="sum")
-) %>% 
+      tally(name="sum")
+  ) %>% 
   mutate(prop=n/sum)
 
 spatial$spatial_scale <- factor(spatial$spatial_scale,
                                 levels=rev(c("Local", "Regional", "Basin", "Continent",
-                                         "Global", "Multiple", "Not specified")))
+                                             "Global", "Multiple", "Not specified")))
 
 names(palf) <- c(2,1)
 names(labsf) <- rev(names(labsf))
@@ -157,7 +156,7 @@ temporal <- dat2 %>%
 
 temporal$category <- factor(temporal$category,
                             levels=c("not specified", "both", "deep-time", "near-time"))
-  
+
 p5 <- ggplot(data=temporal, aes(x=category, y=prop*100, fill=factor(paleo))) +
   geom_bar(stat="identity", position="dodge", width=0.6) +
   scale_fill_manual(values=palf, labels=labsf) +
@@ -178,3 +177,32 @@ p4 + p5 +
   plot_layout(ncol=1, guides = "collect", heights=c(7,4)) +
   plot_annotation(tag_levels = "a", tag_prefix = "(", tag_suffix = ")")
 dev.off()
+
+
+# Comparison --------------------------------------------------------------
+
+ch4 <- read_excel("data/Supplementary Data 2.xlsx", na="NA", sheet="AR5 Chapter 4") # Chapter 4
+ch6 <- read_excel("data/Supplementary Data 2.xlsx", na="NA", sheet="AR5 Chapter 6") # Chapter 6
+wbs <- read_excel("data/Supplementary Data 2.xlsx", na="NA", sheet="Web of Science") # web of science
+
+table(ch4$category)
+table(ch6$category)
+table(wbs$category)
+
+# combine deep time and near time cited in IPCC
+ch46 <- rbind(ch4, ch6)
+scores <- ch46[,12:22]
+scores <- apply(scores, 1, sum, na.rm=T)
+dp <- which(ch46$category=="deep-time")
+ne <- which(ch46$category=="deep-time/near-time" | ch46$category=="near-time")
+boxplot(scores[dp], scores[ne])
+wilcox.test(scores[dp], scores[ne])
+# t.test(scores[dp], scores[ne])
+# test near and deep time not cited
+
+scores.n <- wbs[,13:23]
+scores.n <- apply(scores.n, 1, sum, na.rm=T)
+dp.n <- which(wbs$category=="deep-time")
+ne.n <- which(wbs$category=="near-time")
+boxplot(scores[dp.n], scores[ne.n])
+wilcox.test(scores[dp.n], scores[ne.n])
