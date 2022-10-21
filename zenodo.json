@@ -1,0 +1,23 @@
+{
+    "creators": [
+        {
+            "orcid": "0000-0002-1825-0097",
+            "affiliation": "GeoZentrum Nordbayern, Friedrich-Alexander Universität, D-91054 Erlangen, Germany",
+            "name": "Kiessling, Wolfgang"
+        },
+        {
+            "orcid": "0000-0002-1825-0097",
+            "affiliation": "GeoZentrum Nordbayern, Friedrich-Alexander Universität, D-91054 Erlangen, Germany",
+            "name": "Smith, Jansen A."
+        },
+        {
+            "orcid": "0000-0002-1825-0097",
+            "affiliation": "GeoZentrum Nordbayern, Friedrich-Alexander Universität, D-91054 Erlangen, Germany",
+            "name": "Raja, Nussaïbah B."
+        }
+    ],
+
+    "title": "Data and code for: Improving the relevance of paleontology to climate change policy",
+
+    "keywords": ["paleobiology", "climate change", "IPCC", "biodiversity"],
+}
